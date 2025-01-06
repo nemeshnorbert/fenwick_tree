@@ -1,4 +1,4 @@
-# UniversalHashing
+# Fenwick tree
 A well known Fenwick tree data structure
 
 ## Installation
